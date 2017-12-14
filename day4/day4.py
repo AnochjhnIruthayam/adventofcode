@@ -33,7 +33,7 @@ class DayFour:
                 dict.clear()
         return vaildCount
 
-dayFour = DayFour("day4puzzle.txt")
+dayFour = DayFour("day4/day4puzzle.txt")
 
 print(dayFour.partOne())
 print(dayFour.partTwo())
